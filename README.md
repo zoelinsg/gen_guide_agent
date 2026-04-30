@@ -82,5 +82,10 @@ This project is designed to be deployed as an HTTP-callable AI agent on Cloud Ru
 - Responses are designed to be concise, structured, and easy to read.
 - This project is intended for demo, learning, and exploratory use.
 
+## Demo
+[▶ Watch Demo on YouTube](https://youtu.be/mrNPT4sVOBo)
+
+[![Demo Video](https://img.youtube.com/vi/mrNPT4sVOBo/0.jpg)](https://youtu.be/mrNPT4sVOBo)
+
 ## License
 MIT License
